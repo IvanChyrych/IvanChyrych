@@ -1,7 +1,6 @@
 ### 
 Привет! Меня зовут Иван.
 
-Время от времени программирую микроконтроллеры.
 
 <!--
 **i9901432/i9901432** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
